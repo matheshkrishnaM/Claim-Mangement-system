@@ -36,7 +36,7 @@ User has to enter his username and password to login. Following credentials can 
 | Username   | Password| 
 | -----------|:--------|
 | Mathaesh     | mathaesh01|
-| admin       | password  |
+| Admin01      | password  |
 
 
 ## Logged In
